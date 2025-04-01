@@ -43,7 +43,7 @@ This project automates the identification of unattached persistent disks in Goog
 ---
 
 ## 🎉 Dashboard Preview
-![Dashboard Screenshot](./assets/dashboard_preview.png)
+![Dashboard Screenshot](./dashboard_preview.png)
 
 ---
 
